@@ -1,0 +1,11 @@
+{
+  "name": "04",
+  "packageManager": "yarn@3.1.1",
+  "scripts": {
+    "jest": "jest",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
